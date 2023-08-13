@@ -17,3 +17,4 @@ Consider changing your download directory before doing so!
 
 If you like the script and want to participate, feel free to do so. For example there could be an improvement on the download url to get the most current api version instead of hardcoding it. The api versions can be fetched from [this link of Riot Games ddragon](https://ddragon.leagueoflegends.com/api/versions.json)
 
+This project is tested with BrowserStack.
